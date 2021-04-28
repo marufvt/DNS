@@ -1,6 +1,6 @@
 # Maximizing Cohesion and Separation in Graph Representation Learning: A Distance-aware Negative Sampling Approach
 
-This repository is the official PyTorch implementation of [Maximizing Cohesion and Separation in Graph Representation Learning: A Distance-aware Negative Sampling Approach]()
+This repository is the official PyTorch implementation of [Maximizing Cohesion and Separation in Graph Representation Learning: A Distance-aware Negative Sampling Approach](https://arxiv.org/abs/2007.01423)
 
 
 ## Requirements
